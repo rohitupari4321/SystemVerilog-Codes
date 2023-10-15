@@ -3,7 +3,7 @@ Verified some of the RTL Designs in SystemVerilog.
 
 Below are some of the verified designs.
 
-# Combinational
+@ Combinational
 1. Half adder
 2. 4 isto 1 mux
 
