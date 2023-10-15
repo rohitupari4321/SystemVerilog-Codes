@@ -1,13 +1,13 @@
-## SystemVerilog-Codes
+# SystemVerilog-Codes
 Verified some of the RTL Designs in SystemVerilog.
 
 Below are some of the verified designs.
 
-@ Combinational
+## Combinational Designs
 1. Half adder
 2. 4 isto 1 mux
 
-# Sequential
+## Sequential DEsigns
 1. D flip flop
 2. Memory
 3. FIFO
