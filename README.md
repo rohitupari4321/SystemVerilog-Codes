@@ -1,8 +1,6 @@
 # SystemVerilog-Codes
-Verified few RTL Designs in SystemVerilog.
 
-
-Below are some verified designs.
+Below are few of the verified RTL Designs in SystemVerilog.
 
 ## Combinational Designs
 1. Half adder
