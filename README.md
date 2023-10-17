@@ -8,7 +8,7 @@ Below are some verified designs.
 1. Half adder
 2. 4 isto 1 mux
 
-## Sequential DEsigns
+## Sequential Designs
 1. D flip flop
 2. Memory
 3. FIFO
